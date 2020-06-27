@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "@types/mongoose": "^5.7.28",
+    "lodash": "^4.17.15",
     "mongoose": "^5.9.20",
+    "random-int": "^2.0.1",
     "vscode": "^1.1.37"
   }
 }
